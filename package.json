@@ -1,0 +1,19 @@
+{
+  "name": "server-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Vinoth Thangaparimanam",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "find-server": "^1.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^7.0.1"
+  }
+}
